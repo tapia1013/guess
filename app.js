@@ -76,7 +76,7 @@ guessBtn.addEventListener('click', function (e) {
       // setMessage(`Game Over, you lost. The correct number was ${winningNum}`, 'red')
 
       // replaces above code with this
-      gameOver(false, `Lzzzzzzzzzzzz Game Over, you lost. The correct number was ${winningNum}`)
+      gameOver(false, `Lzzzzzzzzzzzz Game Over, you TRASH BISH. The correct number was ${winningNum}`)
 
 
     } else {
